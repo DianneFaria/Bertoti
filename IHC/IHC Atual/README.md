@@ -98,7 +98,7 @@
 * O GitHub tem a sua documentação e um suporte disponíveis para auxiliar os usuários.
 
 <img src= "https://github.com/DianneFaria/Bertoti/assets/126245947/1656171b-cce7-4bbf-b602-56eb95602c06" height=370 width=330>
-
-
+<br></br>
 Link da matéria ⤵️
+
 [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
