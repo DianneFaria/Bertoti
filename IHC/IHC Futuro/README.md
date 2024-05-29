@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1ar5SzbioZ09arA9zM4SezXo8EfnzInKI#scrollTo=QTCB-ZrcRUZC
+
 ## Projeto de Interação Humano-Computador com Telegram Bot
 
 Este projeto implementa um bot que se conecta ao Telegram para auxiliar na consulta de livros em uma base de dados SQLite. O bot responde a comandos em linguagem natural, utilizando a biblioteca llama_cpp_python para processar solicitações e interagir com o banco de dados.
