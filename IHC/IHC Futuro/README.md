@@ -1,4 +1,4 @@
-https://colab.research.google.com/drive/1ar5SzbioZ09arA9zM4SezXo8EfnzInKI#scrollTo=QTCB-ZrcRUZC
+Link do Google Colab: https://colab.research.google.com/drive/1ar5SzbioZ09arA9zM4SezXo8EfnzInKI#scrollTo=QTCB-ZrcRUZC
 
 ## Projeto de Interação Humano-Computador com Telegram Bot
 
