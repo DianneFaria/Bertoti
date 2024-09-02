@@ -1,4 +1,5 @@
 # Diagrama UML
-![Diagrama uml Strategy](https://github.com/user-attachments/assets/5bb5f2d2-2f4a-409e-a1c0-3911fac92d1b)
+![Diagrama uml Strategy](https://github.com/user-attachments/assets/b36c10e0-7b6e-49e0-9e46-4872f4367db9)
+
 
 

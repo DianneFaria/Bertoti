@@ -1,4 +1,5 @@
 # Diagrama UML
-![Diagrama uml Observer](https://github.com/user-attachments/assets/0aa55ab0-3c88-49b0-a762-7b114216e766)
+![Diagrama uml Observer](https://github.com/user-attachments/assets/670cea9f-0b3f-4825-9e2d-52e242f71689)
+
 
 
