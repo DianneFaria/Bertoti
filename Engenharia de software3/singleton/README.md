@@ -1,2 +1,3 @@
 # Diagrama UML Singleton
-![Diagrama uml Singleton](https://github.com/user-attachments/assets/7c28a86e-90e4-410b-aa03-3a77540f43db)
+![Diagrama uml Singleton](https://github.com/user-attachments/assets/ce229941-98b5-47e1-8e55-044633b2d88d)
+
